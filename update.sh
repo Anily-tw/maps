@@ -1,5 +1,7 @@
 #!/bin/bash
 
+cd $ANILY_DDRACE_ROOT/maps
+
 COMMIT_MSG="Auto-upload new maps"
 BRANCH="master"
 
